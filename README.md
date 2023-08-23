@@ -8,3 +8,5 @@ How to configure Jam IP address:
 Connect to SSID : ECRF password: 123456789
 Menu: ECRF Setting
 Go down and Find Jammer Device then put the IP address
+
+Demo: https://www.youtube.com/watch?v=3oUOgmfth70&t=72s&ab_channel=WorkFromHome2021
