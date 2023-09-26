@@ -9,4 +9,7 @@ Connect to SSID : ECRF password: 123456789
 Menu: ECRF Setting
 Go down and Find Jammer Device then put the IP address
 
+Note:
+For simplycity you can use jammer firmware zip file: 2xCC1101_JAMMER_WORK_ESP32. This is set for 433.75 (you still can change the frequency in the ino file). No need IP address to connect.
+
 Demo: https://www.youtube.com/watch?v=3oUOgmfth70&t=72s&ab_channel=WorkFromHome2021
